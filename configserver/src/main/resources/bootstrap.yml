@@ -8,7 +8,7 @@ spring:
       server:
         encrypt.enabled: false
         native:
-          search-locations: classpath:/configaaa
+          search-locations: classpath:/config
 server:
   port: 8081
   
